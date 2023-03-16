@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+.wrapper
+{
+    height:100vh;
+    width:100vw;
+    background-color: #344151;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.txt
+{
+    color: #0398d4;
+    font-size: 20px;
+}
+.ct{
+    background-color: whitesmoke;
+    font-size: 25px;
+    color: #344151;
+    display: flex;
+   
+    
+}
